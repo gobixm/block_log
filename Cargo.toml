@@ -1,0 +1,12 @@
+[package]
+name = "block_log"
+version = "0.1.0"
+authors = ["gobi <Kirill Ivanov> <gobixm@gmail.com>"]
+
+[dependencies]
+failure = "0.1.1"
+byteorder = "1.2.2"
+crc = "1.7.0"
+
+[dev-dependencies]
+rand = "0.4.2"
